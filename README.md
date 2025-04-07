@@ -1,10 +1,9 @@
+<h1 align="center">Hey there, I'm Saikumar 👋</h1>
+<h3 align="center">Aspiring Data Analyst & AI Engineer | Building Smart Data-Driven Solutions</h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;AI+Project+Builder;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
-<h1 align="center">👋 Hey there, I'm <strong>Saikumar</strong></h1>
-<h3 align="center">📊 <strong>Aspiring Data Analyst</strong> & 🤖 <strong>AI Engineer</strong></h3>
-<h4 align="center">🚀 Passionate about solving real-world problems with <strong>Data, AI & Machine Learning</strong></h4>
 
 
 ---
