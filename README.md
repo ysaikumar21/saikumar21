@@ -1,5 +1,6 @@
+<!-- Profile Picture -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ysaikumar21/ysaikumar21/main/profile%20Git.png" alt="Saikumar" width="180" />
+  <img src="https://avatars.githubusercontent.com/u/176008079?s=400&u=1643d333e102f42f281a9fc154d4f37e9f7aff36&v=4" alt="Saikumar" width="180" />
 </p>
 
 <!-- Typing Heading -->
