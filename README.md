@@ -6,7 +6,7 @@
     </td>
     <td>
       <h1>👋 Hey there, I'm <strong>Saikumar</strong></h1>
-      <h3>📊 Aspiring Data Analyst & 🤖 AI Engineer</h3>
+      <h3>📊 Aspiring Data Analyst | Data Scientist & 🤖 AI Engineer</h3>
       <h4>🚀 Passionate about solving real-world problems with <strong>Data, AI & Machine Learning</strong></h4>
     </td>
   </tr>
