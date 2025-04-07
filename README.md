@@ -1,6 +1,6 @@
-<!-- Profile Picture -->
+<!-- Circular Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/176008079?s=400&u=1643d333e102f42f281a9fc154d4f37e9f7aff36&v=4" alt="Saikumar" width="180" />
+  <img src="https://avatars.githubusercontent.com/u/176008079?s=400&u=1643d333e102f42f281a9fc154d4f37e9f7aff36&v=4" alt="Saikumar" width="180" height="180" style="border-radius: 50%; object-fit: cover;" />
 </p>
 
 <!-- Typing Heading -->
@@ -13,7 +13,6 @@
 <h3 align="center">📊 Aspiring Data Analyst & 🤖 AI Engineer</h3>
 <h4 align="center">🚀 Passionate about solving real-world problems with <strong>Data, AI & Machine Learning</strong></h4>
 
----
 
 ## 🧠 About Me
 
